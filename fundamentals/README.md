@@ -1,6 +1,5 @@
 # Fundamentals
 
-- **[Branch and Loop Instructions](branch_loop/)**
 - **[Stack](stack/)**
 - **[GPIO Driver](gpio/)**
 - **[ADC Driver](adc/)**

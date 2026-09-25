@@ -6,5 +6,6 @@
 4. **[Load-Store Instructions](04-load-store/)**
 5. **[Constants and Literals](05-constants-literals/)**
 6. **[Arithmetic and Logic Instructions](06-arith-logic/)**
+7. **[Branch and Loop Instructions](07-branch-loop/)**
 
 - [simple codes](simple_codes/)
