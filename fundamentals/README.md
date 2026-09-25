@@ -1,6 +1,5 @@
 # Fundamentals
 
-- **[Stack](stack/)**
 - **[GPIO Driver](gpio/)**
 - **[ADC Driver](adc/)**
 - **[UART Driver](uart/)**
