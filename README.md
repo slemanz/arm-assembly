@@ -9,5 +9,6 @@
 7. **[Branch and Loop Instructions](07-branch-loop/)**
 8. **[Stack](08-stack/)**
 9. **[GPIO Driver](09-gpio/)**
+10. **[ADC Driver](10-adc/)**
 
 - [simple codes](simple_codes/)
