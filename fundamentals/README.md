@@ -1,6 +1,5 @@
 # Fundamentals
 
-- **[Arithmetic and Logic Instructions](arith_logic/)**
 - **[Branch and Loop Instructions](branch_loop/)**
 - **[Stack](stack/)**
 - **[GPIO Driver](gpio/)**
