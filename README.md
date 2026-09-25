@@ -8,5 +8,6 @@
 6. **[Arithmetic and Logic Instructions](06-arith-logic/)**
 7. **[Branch and Loop Instructions](07-branch-loop/)**
 8. **[Stack](08-stack/)**
+9. **[GPIO Driver](09-gpio/)**
 
 - [simple codes](simple_codes/)
