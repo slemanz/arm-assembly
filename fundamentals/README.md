@@ -1,6 +1,5 @@
 # Fundamentals
 
-- **[Systick Driver](systick/)**
 - **[Timers Driver](timers//)**
 - **[Data Structures](data_structures/)**
 - **[State Machines](state_machines/)**
