@@ -12,5 +12,6 @@
 10. **[ADC Driver](10-adc/)**
 11. **[UART Driver](11-uart/)**
 12. **[Systick Driver](12-systick/)**
+13. **[Timers Driver](13-timers//)**
 
 - [simple codes](simple_codes/)
