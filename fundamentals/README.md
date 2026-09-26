@@ -1,6 +1,5 @@
 # Fundamentals
 
-- **[UART Driver](uart/)**
 - **[Systick Driver](systick/)**
 - **[Timers Driver](timers//)**
 - **[Data Structures](data_structures/)**

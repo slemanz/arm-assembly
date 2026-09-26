@@ -10,5 +10,6 @@
 8. **[Stack](08-stack/)**
 9. **[GPIO Driver](09-gpio/)**
 10. **[ADC Driver](10-adc/)**
+11. **[UART Driver](11-uart/)**
 
 - [simple codes](simple_codes/)
