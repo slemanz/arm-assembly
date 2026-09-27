@@ -1,6 +1,5 @@
 # Fundamentals
 
-- **[State Machines](state_machines/)**
 
 ## Important Notes
 

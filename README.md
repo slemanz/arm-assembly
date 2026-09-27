@@ -14,5 +14,8 @@
 12. **[Systick Driver](12-systick/)**
 13. **[Timers Driver](13-timers//)**
 14. **[Data Structures](14-data_structures/)**
+15. **[State Machines](15-state_machines/)**
 
 - [simple codes](simple_codes/)
+
+---
